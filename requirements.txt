@@ -1,0 +1,9 @@
+flask
+#moviepy
+vosk
+google-generativeai
+ffmpeg
+flask==3.0.3
+vosk==0.3.45
+google-generativeai==0.3.2
+rapidfuzz
